@@ -1,5 +1,6 @@
 {
-	"name": "Nikita Siniauski",
+	"name": "fcc-learn-npm-package-json",
+  "author": "Nikita Siniauski",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
